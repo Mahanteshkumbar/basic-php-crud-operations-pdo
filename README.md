@@ -1,7 +1,7 @@
 # basic-php-crud-operations-pdo
 Basic Crud opertaion usin PHP PDO
 
-Clone project into your localhost directory and run the project
+Clone project into your localhost(www) directory and run the project
 
 http://localhost/basic-php-crud-operations-pdo
 
